@@ -1,4 +1,4 @@
-#Scrabble Player Rating Prediction
+Scrabble Player Rating Prediction
 This project was developed as part of the CS 559: Machine Learning Fundamentals and Applications course. The goal was to predict player ratings in online Scrabble games based on game metadata using various machine learning models. Our team participated in Kaggle’s Scrabble Player Rating competition and aimed to achieve high accuracy in predicting player ratings.
 
 Project Overview
